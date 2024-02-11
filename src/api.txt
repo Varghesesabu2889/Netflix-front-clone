@@ -25,3 +25,7 @@ to fetch entire image
   eg:
 
  fetchTrending:`https://api.themoviedb.org/3/trending/all/week?api_key=47de2b9e8b2462b53975d18185ac40bf&language=en-US`,
+
+
+
+//Developed by Varghese Sabu

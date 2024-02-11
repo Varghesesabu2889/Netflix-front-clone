@@ -36,3 +36,9 @@ backgroundAttachment:"fixed"
 
 export default Banner
 
+
+
+
+
+
+//Developed by Varghese Sabu
